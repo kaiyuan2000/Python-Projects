@@ -16,6 +16,6 @@ There are 4 levels : **Beginner, Intermediate, Intermediate+ & Advanced**
 |Intermediate | Turtle Racing Game | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Turtle%20Racing%20Game) | Instances, States & Higher Order Function |
 |Intermediate | Snake Game | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Snake%20Game) | Inheritance, List Slicing, Animation & Coordinates |
 |Intermediate | Guessing US State Game | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/US%20State%20Game) | CSV Data & Pandas Library|
-|Intermediate | QuizBrain | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/QuizBrain) | Creating Class | 
+|Intermediate | QuizBrain | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/QuizBrain) | Class Application | 
 |Intermediate | Pong Game | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Pong%20Game) | Class | 
 
