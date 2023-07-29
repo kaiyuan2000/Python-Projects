@@ -8,7 +8,6 @@ There are 4 levels : **Beginner, Intermediate, Intermediate+ & Advanced**
 |Intermediate | Password Manager | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Password%20Manager) | TKinter Application |
 |Intermediate | Pomodora | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Pomodora) | TKinter & Dynamic Typing |
 |Intermediate | Unit Converter Program | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Unit%20Convertor) | TKinter & *Args & **Kwargs
-| Intermediate | Coffee Machine | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Coffee%20Machine%20in%20OOP) | OOP |
 |Intermediate | Crossing Road Game | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Crossing%20Road)| Turtle Application |
 |Intermediate | Hirst Painting | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Hirst%20Painting) |Turtle | 
 |Intermediate | Mail-Merge Program | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Mail-Merge) | Files & Directories | 
@@ -18,4 +17,5 @@ There are 4 levels : **Beginner, Intermediate, Intermediate+ & Advanced**
 |Intermediate | Guessing US State Game | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/US%20State%20Game) | CSV Data & Pandas Library|
 |Intermediate | QuizBrain | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/QuizBrain) | Class Application | 
 |Intermediate | Pong Game | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Pong%20Game) | Class | 
+| Intermediate | Coffee Machine | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Coffee%20Machine%20in%20OOP) | OOP |
 
