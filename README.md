@@ -5,6 +5,7 @@ There are 4 levels : **Beginner, Intermediate, Intermediate+ & Advanced**
 
 | Level | Project Name | Code Link | Topic | 
 |-------|--------------|-----------| ------|
+|Intermediate| Flashcard App| [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Flashcard%20App) | Capstone Project (Application of Exception, TKinter, Files, Pandas)
 |Intermediate| Password Manager V2| [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Password%20Manager%20V2) | Error, Exception & JSON Data |
 |Intermediate | Password Manager | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Password%20Manager) | TKinter Application |
 |Intermediate | Pomodora | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Pomodora) | TKinter & Dynamic Typing |
