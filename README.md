@@ -5,6 +5,8 @@ There are 4 levels : **Beginner, Intermediate, Intermediate+ & Advanced**
 
 | Level | Project Name | Code Link | Topic | 
 |-------|--------------|-----------| ------|
+|Intermediate+ | ISS Tracker | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate%20%2B/ISS%20Tracker) | API Endpoint & API Parameters | 
+|Intermediate+ | Kanye Quote Generator | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate%20%2B/Kanye%20Quote%20Generator) | API & Tkinter |
 |Intermediate+ | Automate Birthday Wisher| [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate%20%2B/Automate_Birthday_Wisher_Email) | smtplib & datetime module | 
 |Intermediate| Flashcard App| [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Flashcard%20App) | Capstone Project (Application of Exception, TKinter, Files, Pandas)
 |Intermediate| Password Manager V2| [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate/Password%20Manager%20V2) | Error, Exception & JSON Data |
