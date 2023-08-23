@@ -1,0 +1,4 @@
+in future, more functions can be added.
+eg :
+- ranking (need to have a file)
+- add specific topics (API parameters need to change)
