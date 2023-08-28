@@ -5,6 +5,7 @@ There are 4 levels : **Beginner, Intermediate, Intermediate+ & Advanced**
 
 | Level | Project Name | Code Link | Topic | 
 |-------|--------------|-----------| ------|
+|Intermediate+ | Workout Tracker | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate%20%2B/Workout%20Tracker) | Authorization headers, Environment variable, API practise|
 |Intermediate+ | Habit Tracker | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate%20%2B/Habit%20Tracker) | API Headers, POST PUT DELETE request|
 |Intermediate+ | Stock Trading Alert | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate%20%2B/Stock%20Trading%20Alert) | API Practise (Endpoint, Parameters) |
 |Intermediate+ | Rain Alert Application | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate%20%2B/Rain%20Alert%20Application) | Keys, API Authentication & Environment Variable |
