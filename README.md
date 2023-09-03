@@ -5,7 +5,8 @@ There are 4 levels : **Beginner, Intermediate, Intermediate+ & Advanced**
 
 | Level | Project Name | Code Link | Topic | 
 |-------|--------------|-----------| ------|
-|Web Foundation | Movie Ranking | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Web%20Foundation/2.4%20Movie%20Ranking%20Project) | HTML (Heading, Paragraph, Void Elements)
+|Web Foundation| Birthday Invite | [Linl](https://github.com/kaiyuan2000/Python-Projects/tree/main/Web%20Foundation/3.4%20Birthday%20Invite%20Project) | Intermediate HTML (List, Nesting, Anchor element, Image)
+|Web Foundation | Movie Ranking | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Web%20Foundation/2.4%20Movie%20Ranking%20Project) | Intro to HTML (Heading, Paragraph, Void Elements)
 |Intermediate+ | Flight Deal Finder | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate%20%2B/Flight%20Deal%20Finder) | Capstone Project (API, OOP)
 |Intermediate+ | Workout Tracker | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate%20%2B/Workout%20Tracker) | Authorization headers, Environment variable, API practise|
 |Intermediate+ | Habit Tracker | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate%20%2B/Habit%20Tracker) | API Headers, POST PUT DELETE request|
