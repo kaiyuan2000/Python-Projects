@@ -5,7 +5,7 @@ There are 4 levels : **Beginner, Intermediate, Intermediate+ & Advanced**
 
 | Level | Project Name | Code Link | Topic | 
 |-------|--------------|-----------| ------|
-|Intermediate+ | Webscraping ! [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate%20%2B/Webscrap%20with%20BS) | Web Scraping with BeautifulSoup | 
+|Intermediate+ | Webscraping | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Intermediate%20%2B/Webscrap%20with%20BS) | Web Scraping with BeautifulSoup | 
 |Web Foundation| Color in Spanish Website| [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Web%20Foundation/5.4%20Color%20Vocab%20Project) | Intro to CSS (Inline Internal External CSS, Selectors)|
 |Web Foundation| Birthday Invitation Website | [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Web%20Foundation/3.4%20Birthday%20Invite%20Project) | Intermediate HTML (List, Nesting, Anchor element, Image)
 |Web Foundation | Movie Ranking Website| [Link](https://github.com/kaiyuan2000/Python-Projects/tree/main/Web%20Foundation/2.4%20Movie%20Ranking%20Project) | Intro to HTML (Heading, Paragraph, Void Elements)
